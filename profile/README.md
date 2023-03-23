@@ -13,7 +13,7 @@ We want to ehance your experience with developing systems while giving you all t
 
 # How are we different?
 
-Well, unlike most languages, you don't need to worry about memory. Even if a language provides memory control, it will still
+Well, most languages, you don't need to worry about memory. Even if a language provides memory control, it will still
 handle it for you (Go, C#, etc). C/C++ may be too hard for others to learn or just not matching their needs. With Skelly,
 we aim to provide a suitable solution to this problem while allowing you to freely control your memory. Don't worry about causing
 leaks, Skelly will still help you and ensure you have optimised code.
